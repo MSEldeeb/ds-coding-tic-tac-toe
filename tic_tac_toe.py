@@ -19,4 +19,5 @@ def blablabla():
 # Tic-tac-toe game
 if __name__ == "__main__":
     # Start a new round of Tic-tac-toe
+    print("Test")
     print("Welcome to a new round of Tic-Tac-Toe!")
